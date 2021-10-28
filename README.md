@@ -1,5 +1,5 @@
 # Very Good trip : a spotify playlist maker
----
+
 ## Prerequisites
 In order to run the script, you will need a Spotify account and you will need to [register a Spotify app](https://developer.spotify.com/dashboard/) a nice guide for which can be found [here](https://spotipy.readthedocs.io/en/2.9.0/#getting-started). You will also need to register with the [Genius API](https://docs.genius.com/#/getting-started-h1) in order to get a client access token. 
 ---
